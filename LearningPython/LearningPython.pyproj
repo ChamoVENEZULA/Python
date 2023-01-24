@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d5eb1d8e-0d37-4608-b38b-755e0bea1e86</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>LearningPython.py</StartupFile>
+    <StartupFile>Tarea1\Bienvenida.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="LearningPython.py" />
+    <Compile Include="Tarea1\Bienvenida.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Tarea1\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
