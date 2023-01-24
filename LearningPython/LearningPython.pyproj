@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Tarea1\Bienvenida.py" />
+    <Compile Include="Tarea1\Frist.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Tarea1\" />
