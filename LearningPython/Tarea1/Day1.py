@@ -1,7 +1,5 @@
 """Escribir programa que lea 2 varible y diga si es menor, mayor o igual"""
 
-from ast import For
-
 
 num=int(input("Primera Variable\n"))
 num2=int(input("Segunda Variable\n"))
