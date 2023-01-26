@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d5eb1d8e-0d37-4608-b38b-755e0bea1e86</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Tarea1\Day5.py</StartupFile>
+    <StartupFile>Tarea1\Day7.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -29,6 +29,8 @@
     <Compile Include="Tarea1\Day3.py" />
     <Compile Include="Tarea1\Day4.py" />
     <Compile Include="Tarea1\Day5.py" />
+    <Compile Include="Tarea1\Day6.py" />
+    <Compile Include="Tarea1\Day7.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Tarea1\" />
