@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d5eb1d8e-0d37-4608-b38b-755e0bea1e86</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Tarea1\Bienvenida.py</StartupFile>
+    <StartupFile>Tarea1\Day5.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Tarea1\Bienvenida.py" />
+    <Compile Include="Tarea1\Day1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Tarea1\Day2.py" />
+    <Compile Include="Tarea1\Day3.py" />
+    <Compile Include="Tarea1\Day4.py" />
+    <Compile Include="Tarea1\Day5.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Tarea1\" />
