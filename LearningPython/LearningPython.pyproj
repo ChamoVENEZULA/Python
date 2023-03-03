@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Entregable1\Carros.py" />
     <Compile Include="Tarea1\Bienvenida.py" />
     <Compile Include="Tarea1\Day1.py">
       <SubType>Code</SubType>
@@ -31,9 +32,16 @@
     <Compile Include="Tarea1\Day5.py" />
     <Compile Include="Tarea1\Day6.py" />
     <Compile Include="Tarea1\Day7.py" />
+    <Compile Include="Tarea2_funtions\P1.py" />
+    <Compile Include="Tarea2_funtions\P2.py" />
+    <Compile Include="Tarea2_funtions\P3.py" />
+    <Compile Include="Tarea2_funtions\P3\P3short.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Entregable1\" />
+    <Folder Include="Tarea2_funtions\" />
     <Folder Include="Tarea1\" />
+    <Folder Include="Tarea2_funtions\P3\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
