@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d5eb1d8e-0d37-4608-b38b-755e0bea1e86</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Tarea1\Day7.py</StartupFile>
+    <StartupFile>cursos de Py Openbootcam\Leccion6.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,14 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="cursos de Py Openbootcam\leccion4.py" />
+    <Compile Include="cursos de Py Openbootcam\leccion5.py" />
+    <Compile Include="cursos de Py Openbootcam\Leccion6.py" />
+    <Compile Include="cursos de Py Openbootcam\módulo1.py" />
     <Compile Include="Entregable1\Carros.py" />
+    <Compile Include="proyecto de ayuda\pila_operacion_arimetica.py" />
+    <Compile Include="proyecto de ayuda\prueba.py" />
+    <Compile Include="proyecto de ayuda\simulador_colas_tarea.py" />
     <Compile Include="Tarea1\Bienvenida.py" />
     <Compile Include="Tarea1\Day1.py">
       <SubType>Code</SubType>
@@ -39,6 +46,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Entregable1\" />
+    <Folder Include="cursos de Py Openbootcam\" />
+    <Folder Include="proyecto de ayuda\" />
     <Folder Include="Tarea2_funtions\" />
     <Folder Include="Tarea1\" />
     <Folder Include="Tarea2_funtions\P3\" />
